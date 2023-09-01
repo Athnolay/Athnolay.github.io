@@ -467,9 +467,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -478,9 +478,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -493,7 +493,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<h1>在这听一些音乐吧</h1><p><strong>为了方便传输，大部分vip歌基本都是网易云下面的免费替代，如果有想分享的，或者想听的歌可以在这个评论区留言</strong></p>    <div id="aplayer-IfmXBBya" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8280382475" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><p><strong>8u的歌，have a try</strong></p>    <div id="aplayer-FRugwUeN" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8294397922" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[<h1>在这听一些音乐吧</h1><p><strong>为了方便传输，大部分vip歌基本都是网易云下面的免费替代，如果有想分享的，或者想听的歌可以在这个评论区留言</strong></p>    <div id="aplayer-yUbLlqyb" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8280382475" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><p><strong>8u的歌，have a try</strong></p>    <div id="aplayer-RuIHkeHd" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8294397922" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
