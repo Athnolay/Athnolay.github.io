@@ -434,17 +434,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于我</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -478,9 +467,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -493,7 +482,18 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<h1>在这听一些音乐吧</h1><p><strong>为了方便传输，大部分vip歌基本都是网易云下面的免费替代，如果有想分享的，或者想听的歌可以在这个评论区留言</strong></p>    <div id="aplayer-QDPcEHMW" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8280382475" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><iframe src="https://player.bilibili.com/player.html?bvid=BV1qz4y1p7yq" width="800" height="600" frameborder="0" allowfullscreen="true"></iframe>]]></content>
+        <content type="html"><![CDATA[<h1>在这听一些音乐吧</h1><p><strong>为了方便传输，大部分vip歌基本都是网易云下面的免费替代，如果有想分享的，或者想听的歌可以在这个评论区留言</strong></p>    <div id="aplayer-rfgjurXs" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8280382475" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><iframe src="https://player.bilibili.com/player.html?bvid=BV1qz4y1p7yq" width="720" height="540" frameborder="0" allowfullscreen="true"></iframe>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
